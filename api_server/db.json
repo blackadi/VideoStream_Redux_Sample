@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "test",
+      "description": "test",
+      "id": 1
+    },
+    {
+      "title": "test2",
+      "description": "test2",
+      "id": 2
+    },
+    {
+      "title": "test2",
+      "description": "test2",
+      "id": 3
+    },
+    {
+      "title": "new stream with userIdbb",
+      "description": "new stream with userIdbb",
+      "userId": "117925097862054606575",
+      "id": 4
+    },
+    {
+      "title": "test programmatic navegation",
+      "description": "test programmatic navegation",
+      "userId": "117925097862054606575",
+      "id": 5
+    },
+    {
+      "title": "test44aa",
+      "description": "test44aa",
+      "id": 6
+    }
+  ]
+}
